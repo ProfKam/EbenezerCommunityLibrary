@@ -1,0 +1,36 @@
+2025-08-10T11:08:06.4246475 - Starting Library System...
+2025-08-10T11:11:36.0037411 - Added book 1 (Holy Bible)
+2025-08-10T11:12:06.3429341 - Removed book 1
+2025-08-10T11:14:37.757336 - Saved books.
+2025-08-10T11:14:37.758333 - Saved borrowers.
+2025-08-10T11:14:37.7603276 - Saved transactions.
+2025-08-10T11:14:37.7603276 - Shutting down Library System.
+2025-08-10T11:51:57.6441134 - Starting Library System...
+2025-08-10T11:51:57.6515254 - Loaded books.
+2025-08-10T11:51:57.6525234 - Loaded borrowers.
+2025-08-10T11:51:57.6535192 - Loaded transactions.
+2025-08-10T11:55:08.9120365 - Added book 1111 (bridges of love)
+2025-08-10T11:57:53.417807 - Saved books.
+2025-08-10T11:57:53.417807 - Saved borrowers.
+2025-08-10T11:57:53.4188125 - Saved transactions.
+2025-08-10T11:57:53.420095 - Shutting down Library System.
+2025-08-10T11:59:51.5406282 - Starting Library System...
+2025-08-10T11:59:51.5658834 - Loaded books.
+2025-08-10T11:59:51.5668818 - Loaded borrowers.
+2025-08-10T11:59:51.5668818 - Loaded transactions.
+2025-08-10T12:01:30.510999 - Added book 1112 (holy bible)
+2025-08-10T12:02:47.8016221 - Added borrower 1 (Abednego)
+2025-08-10T12:03:27.1511274 - Added borrower 2 (Caleb)
+2025-08-10T12:04:06.4500255 - Enqueued borrow request: borrower 1 -> isbn 1111
+2025-08-10T12:04:17.2555289 - Processed lending: borrower 1 borrowed 1111 due 2025-08-20
+2025-08-10T12:06:38.2668972 - Saved books.
+2025-08-10T12:06:38.2693294 - Saved borrowers.
+2025-08-10T12:06:38.273656 - Saved transactions.
+2025-08-10T12:06:41.5152198 - Saved books.
+2025-08-10T12:06:41.5162161 - Saved borrowers.
+2025-08-10T12:06:41.5172177 - Saved transactions.
+2025-08-10T12:06:41.518212 - Shutting down Library System.
+2025-08-10T12:48:38.6374951 - Starting Library System...
+2025-08-10T12:48:38.6743975 - Loaded books.
+2025-08-10T12:48:38.7053132 - Loaded borrowers.
+2025-08-10T12:48:38.7202722 - Loaded transactions.
